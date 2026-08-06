@@ -1,0 +1,13 @@
+# Objetos e binários
+*.o
+thzc
+
+# Saídas do transpilador / build
+out.cpp
+*.cpp.orig
+build/
+cmake-build-*/
+
+# Temporários
+*.tmp
+*~
